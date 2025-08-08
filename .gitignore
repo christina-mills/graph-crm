@@ -1,4 +1,6 @@
 .env
+node_modules/
+dist/
 /data-migration/companies.csv
 /data-migration/contacts.csv
 /data-migration/deals.csv
